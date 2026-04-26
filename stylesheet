@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>BitMarket</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img class="logo" src="https://algoritmika.org">
+        <a class="button" href="">Скидки</a>
+    </header>
+
+    <nav>
+        <a class="nav-link" href="">Каталог</a>
+        <a class="nav-link" href="">Оптом</a>
+        <a class="nav-link" href="">Доставка</a>
+        <a class="nav-link" href="">Возврат товара</a>
+    </nav>
+
+    <main>
+        <img src="https://www.figma.com/design/BaNqq0TlCCFN6l1TMfaclt/Untitled?node-id=3-12&t=JScANnP39Rxroq4V-1">
+        <h1>◆ Профессионалы советуют ◆</h1>
+        
+        <section class="info">
+            <article class="post">
+                <h2>Лэптоп для отдыха</h2>
+                <img class="post-img" src="https://algoritmika.org">
+                <p class="post-text">Samsung V145-S</p>
+                <a class="article-but" href="">Подробнее</a>
+            </article>
+
+            <article class="post">
+                <h2>Как выбрать наушники</h2>
+                <img class="post-img" src="https://algoritmika.org">
+                <p class="post-text">Поговорим о новинках</p>
+                <a class="article-but" href="">Подробнее</a>
+            </article>
+
+         <article class="post">
+            <img class="badge" src="https://algoritmika.org">
+            <h2>Телефон мечты</h2>
+            <img class="post-img" src="https://algoritmika.org">
+            <p class="post-text">Apple iphone 13</p>
+            <a class="article-but" href="">Подробнее</a>
+        </article>
+
+            <article class="post">
+                <h2>Техника для всего</h2>
+                <img class="post-img" src="https://algoritmika.org">
+                <p class="post-text">И целого мира мало...</p>
+                <a class="article-but" href="">Подробнее</a>
+            </article>
+        </section>
+
+        <aside>
+            <p><b>Напиши — <br> получи промокод!</b></p>
+            <a class="social" href="">
+                <img src="https://algoritmika.org">
+            </a>
+        </aside>
+
+        <img class="full-image" src="https://algoritmika.org">
+    </main>
+
+   <footer>
+    <div class="contacts">
+       <div class="contacts">
+    <p class="footer-text"><span class="address">Адрес:</span> город Технологический, пр-д Современный, 29/2</p>
+    <p class="footer-text"><span class="tel">Телефон:</span> 4138-564</p>
+</div>
+        <p class="footer-text">
+            <span class="tel-icon"></span> 
+            <span class="tel">Телефон:</span> 4138-564
+        </p>
+    </div>
+    <div class="footer-logo">
+        <img src="https://algoritmika.org"/>
+    </div>
+</footer>
+</body>
+</html>
+
+
